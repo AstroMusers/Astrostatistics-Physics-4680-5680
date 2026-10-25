@@ -1,6 +1,6 @@
 # Astrostatistics 4680/5680
 
-This repository is the home for Astrostatistics course materials and supporting examples.
+What can a noisy sky actually tell us? In Physics 4680/5680, we use probability, modeling, and computation to answer that question, then ask which assumptions shaped the result. The materials include lecture notes, assignments, and a PCAT exercise in transdimensional inference.
 
 From the checkout root, source `scripts/set_repository_path.sh` to set `ASTROSTATISTICS_PHYSICS_4680_5680_PATH` in the current shell. Keep local inputs in the ignored `data/` directory and generated figures in the ignored `visuals/` directory.
 
